@@ -3,60 +3,60 @@
   "Name": "Juego de Tronos",
   "Image": "https://static.wikia.nocookie.net/hieloyfuego/images/9/98/Juego_de_Tronos_nueva.jpg/revision/latest/scale-to-width-down/260?cb=20130204012829",
   "Author": "George R. R. Martin",
-  "Year": "1996"
+  "Year": 1996
 },
 {
   "Name": "Choque de Reyes ",
   "Image": "https://static.wikia.nocookie.net/hieloyfuego/images/b/b7/Images.jpg/revision/latest/scale-to-width-down/260?cb=20171120210313",
   "Author": "George R. R. Martin",
-  "Year": "1998"
+  "Year": 1998
 },
 {
    "Name": "El Caballero Errante",
    "Image": "https://static.wikia.nocookie.net/hieloyfuego/images/a/a4/El_Caballero_Errante_%28libro%29.jpg/revision/latest/scale-to-width-down/250?cb=20120908195645",
    "Author": "George R. R. Martin",
-   "Year": "1998" 
+   "Year": 1998 
 },
 {
   "Name": "Tormenta de Espadas",
   "Image": "https://static.wikia.nocookie.net/hieloyfuego/images/7/7b/Tormenta_de_espadas_1.jpg/revision/latest/scale-to-width-down/260?cb=20171120210537",
   "Author": "George R. R. Martin",
-  "Year": "2000" 
+  "Year": 2000 
 },
 {
    "Name": "La Espada Leal",
    "Image": "https://static.wikia.nocookie.net/hieloyfuego/images/2/23/La_Espada_Leal_%28Libro%29.jpg/revision/latest/scale-to-width-down/260?cb=20130216155820",
    "Author": "George R. R. Martin",
-   "Year": "2003" 
+   "Year": 2003
 },
 {
   "Name": "Festín de Cuervos ",
   "Image": "https://static.wikia.nocookie.net/hieloyfuego/images/b/b5/Festin_de_Cuervos.jpg/revision/latest/scale-to-width-down/260?cb=20171120210713",
   "Author": "George R. R. Martin",
-  "Year": "2005"
+  "Year": 2005
 },
 {
    "Name": "Danza de Dragones",
    "Image": "https://static.wikia.nocookie.net/hieloyfuego/images/d/d9/Danza_de_Dragones.JPG/revision/latest/scale-to-width-down/260?cb=20130204014131",
    "Author": "George R. R. Martin",
-   "Year": "2011"
+   "Year": 2011
 },
 {
    "Name": "El Caballero Misterioso",
    "Image": "https://static.wikia.nocookie.net/hieloyfuego/images/3/33/The_Mystery_Knight_GN.jpg/revision/latest/scale-to-width-down/119?cb=20170903223407",
    "Author": "George R. R. Martin",
-   "Year": "2010"
+   "Year": 2010
 },
 {
    "Name": "El Mundo de Hielo y Fuego",
    "Image": "https://static.wikia.nocookie.net/hieloyfuego/images/9/9e/The_World_of_Ice_and_Fire_final.jpg/revision/latest/scale-to-width-down/260?cb=20140508044458",
    "Author": "George R. R. Martin",
-   "Year": "2014"
+   "Year": 2014
 },
 {
    "Name": "Fuego y Sangre",
    "Image": "https://static.wikia.nocookie.net/hieloyfuego/images/6/67/Fire_and_Blood_UK.jpg/revision/latest/scale-to-width-down/260?cb=20180604141346",
    "Author": "George R. R. Martin",
-   "Year": "2018"
+   "Year": 2018
 }
 ]
