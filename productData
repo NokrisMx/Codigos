@@ -1,0 +1,62 @@
+[
+  {
+    "Nombre": "Nuka Cola",
+    "Precio": "$1,500",
+    "Detalles": "Entre los ingredientes de Nuka-Cola se incluyen agua carbonatada, color caramelo, aspartamo, ácido fosfórico, benzoato de potasio (para conservar el sabor), sabores naturales, ácido cítrico y cafeína.",
+    "Imagen": "https://static.wikia.nocookie.net/fallout/images/0/04/FO3_Nuka-Cola.png/revision/latest?cb=20210713164035"
+  },
+  {
+    "Nombre": "Nuka Cola Helada",
+    "Precio": "$6,299",
+    "Detalles": "La Nuka Cola Helada es un producto raro de conseguir, de aqui su precio. No se preocupe,la Nuka-Cola helada sigue conservando sus cualidades radioactivas.",
+    "Imagen": "https://static.wikia.nocookie.net/fallout/images/0/04/FO3_Nuka-Cola.png/revision/latest?cb=20210713164035"
+  },
+  {
+    "Nombre": "Nuka Cola Quantum",
+    "Precio": "$1,690",
+    "Detalles": "La formula de la Nuka Cola Quantum lleva un isótopo radioactivo suave de estroncio (y un decimoctavo sabor frutal que le aporta un toque de sabor a granada).",
+    "Imagen": "https://static.wikia.nocookie.net/fallout/images/9/9d/FO3_Nuka-Cola_Quantum.png/revision/latest?cb=20170320231634"
+  },
+  {
+    "Nombre": "Nuka Cola Quartz",
+    "Precio": "$4,490",
+    "Detalles": "La Nuka Cola Quartz es una variante de la Nuka-Cola. Es algo similar a la Nuka-Cola Quántum. Es una bebida translúcida con un tonalidad blanca y brillante.",
+    "Imagen": "https://static.wikia.nocookie.net/fallout/images/d/dd/Nuka-Cola_Quartz.png/revision/latest?cb=20170320231346"
+  },
+  {
+    "Nombre": "Nuka Cola Victory",
+    "Precio": "$4,990",
+    "Detalles": "La Nuka Cola Victory es una variante de la Nuka-Cola. Es de color naranja, lo cual le otorga un aspecto distinto, al igual que la Nuka-Cola Quántum.",
+    "Imagen": "https://static.wikia.nocookie.net/fallout/images/9/93/Nuka-Cola_Victory.png/revision/latest?cb=20170320231302"
+  },
+  {
+    "Nombre": "Nuka Cherry",
+    "Precio": "$11,999",
+    "Detalles": "La Nuka Cherry es una variante de la Nuka-Cola. Tiene sabor a cerezas y es de color rojo. Se distribuyó en las cercanías de Boston.",
+    "Imagen": "https://static.wikia.nocookie.net/fallout/images/d/de/Nuka_Cherry.png/revision/latest?cb=20160611041918&path-prefix=es"
+  },
+  {
+    "Nombre": "Nuka Cola Orange",
+    "Precio": "$9,690",
+    "Detalles": "La Nuka-Cola Orange es una variante de la Nuka-Cola con sabor a naranja. Se distingue fácilmente por su botella de color naranja y su etiqueta con forma de rodaja de naranja.",
+    "Imagen": "https://static.wikia.nocookie.net/fallout/images/9/9c/Nuka-Cola_Orange.png/revision/latest?cb=20211127131505"
+  },
+  {
+    "Nombre": "Nuka Cola Dark",
+    "Precio": "$4,999",
+    "Detalles": "La Nuka Cola Dark es una variante alcohólica de la Nuka Cola. Es de color negro y tiene un grado alcohólico volumétrico del 35%. ",
+    "Imagen": "https://static.wikia.nocookie.net/fallout/images/0/0c/Nuka-Cola_Dark.png/revision/latest?cb=20211127131559"
+  },
+  {
+    "Nombre": "Nuka Cola Wild",
+    "Precio": "$4,690",
+    "Detalles": "La Nuka-Cola Wild es una variante de la Nuka Cola con sabor a cerveza de raíz. Esta destinada a competir con la Sunset Sarsaparilla.",
+    "Imagen": "https://static.wikia.nocookie.net/fallout/images/5/54/Nuka-Cola_Wild.png/revision/latest?cb=20211127131228"
+  },
+  {
+    "Nombre": "Nuka Grape",
+    "Precio": "$179",
+    "Detalles": "La Nuka Grape es una variante de la Nuka Cola con sabor a uva. Se distingue fácilmente del resto por el racimo de uvas de color púrpura que aparece en la etiqueta y en la tapa de la botella",
+    "Imagen": "https://static.wikia.nocookie.net/fallout/images/b/bd/Nuka-Grape.png/revision/latest?cb=20211127131140"
+  }
+]
